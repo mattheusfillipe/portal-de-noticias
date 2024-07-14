@@ -1,4 +1,19 @@
 * {
-    background: firebrick;
-    color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --light-blue:#60A5FA;
+    --dark-blue: #1D4ED8;
+    --bg-color: #0F172A;
+    --stroke-color: #1E293B;
+    --text-primary: #F1F5F9;
+    --text-secondary: #CBD5E1;
+}
+
+body {
+    color: var(--text-primary);
+    background: var(--bg-color);
 }
