@@ -1,5 +1,6 @@
 
-![portal-noticias](https://github.com/user-attachments/assets/6fc7b529-377a-47f1-9b7a-000893e27bb9)
+
+![portal-noticias](https://github.com/user-attachments/assets/e461ff2f-0af3-431b-8988-c3bd2337541f)
 
 
 
